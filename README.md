@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects Projects:</h2>
 
-  - [Basic Homelab Using Virtual Box](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Basic Homelab Using Virtual Box](https://github.com/Ellisuju/Basic-Home-lab-Using-Virtual-Box/tree/main)
     
 <h2>Certifications</h2>
 
