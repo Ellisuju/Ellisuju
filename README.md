@@ -1,6 +1,6 @@
 <h1>Hi, I'm Ellis! <br/><a /a>Cybersecurity Professional</a>
 
-<h2>👨‍💻 Cybersecurity Projects Projects:</h2>
+<h2>👨‍💻 Cybersecurity Projects:</h2>
 
   - [Basic Homelab Using Virtual Box](https://github.com/Ellisuju/Basic-Home-lab-Using-Virtual-Box/tree/main)
     
